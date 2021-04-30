@@ -12,13 +12,15 @@
 			<RowDefinition Height="*" />
 		</Grid.RowDefinitions>
 		<Grid>
-			<Grid.ColumnDefinitions>
-				<ColumnDefinition Width="*"/>
-				<ColumnDefinition Width="200"/>
-			</Grid.ColumnDefinitions>
-
-			<TextBlock VerticalAlignment="Center" Margin="10,0,0,0" FontSize="24">Chess</TextBlock>
-			<ComboBox Grid.Column="1" Margin="10"></ComboBox>
+			<TextBlock VerticalAlignment="Center" Margin="10,0,0,0" FontSize="24" HorizontalAlignment="Left">Chess</TextBlock>
+			<ComboBox Margin="0,12,10,12" VerticalAlignment="Center" FontSize="16" MaxWidth="140" HorizontalAlignment="Right" Width="122">
+				<ComboBoxItem Content="King"/>
+				<ComboBoxItem Content="Queen"/>
+				<ComboBoxItem Content="Knight"/>
+				<ComboBoxItem Content="Rook"/>
+				<ComboBoxItem Content="Bishop"/>
+				<ComboBoxItem Content="Pawn"/>
+			</ComboBox>
 		</Grid>
 		<Grid Grid.Row="1" Grid.Column="7">
 			<Grid.ColumnDefinitions>
