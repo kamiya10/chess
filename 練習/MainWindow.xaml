@@ -7,7 +7,7 @@
 		mc:Ignorable="d"
 		Title="西洋棋" Height="650" Width="600"
 		Background="{DynamicResource Background}"
-        Foreground="{DynamicResource Foreground}">
+        Foreground="{DynamicResource Foreground}" Icon="Resource/icon.ico">
 	<Grid>
 		<Grid.RowDefinitions>
 			<RowDefinition Height="50" />
