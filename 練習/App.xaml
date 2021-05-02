@@ -4,6 +4,10 @@
              xmlns:local="clr-namespace:練習"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <ResourceDictionary>
+            <SolidColorBrush x:Key="Foreground" Color="#DDFFFFFF"/>
+            <SolidColorBrush x:Key="Background" Color="#FF212121"/>
+            <SolidColorBrush x:Key="ButtonBackground" Color="#FF252526"/>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>
