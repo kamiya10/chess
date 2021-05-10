@@ -46,70 +46,70 @@
 				<RowDefinition Height="75*" />
 			</Grid.RowDefinitions>
 
-			<Button Content="A1" Tag="A1" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="7"/>
-            <Button Content="B1" Tag="B1" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="1" Grid.Row="7"/>
-            <Button Content="C1" Tag="C1" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="2" Grid.Row="7"/>
-            <Button Content="D1" Tag="D1" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="3" Grid.Row="7"/>
-            <Button Content="E1" Tag="E1" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="4" Grid.Row="7"/>
-            <Button Content="F1" Tag="F1" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="5" Grid.Row="7"/>
-            <Button Content="G1" Tag="G1" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="6" Grid.Row="7"/>
-            <Button Content="H1" Tag="H1" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="7" Grid.Row="7"/>
-            <Button Content="A2" Tag="A2" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="6"/>
-            <Button Content="B2" Tag="B2" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="1" Grid.Row="6"/>
-            <Button Content="C2" Tag="C2" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="6" Grid.Column="2"/>
-            <Button Content="D2" Tag="D2" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="6" Grid.Column="3"/>
-            <Button Content="E2" Tag="E2" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="6" Grid.Column="4"/>
-            <Button Content="F2" Tag="F2" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="6" Grid.Column="5"/>
-            <Button Content="G2" Tag="G2" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="6" Grid.Column="6"/>
-            <Button Content="H2" Tag="H2" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="6" Grid.Column="7"/>
-            <Button Content="A3" Tag="A3" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="5"/>
-            <Button Content="B3" Tag="B3" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="5" Grid.Column="1"/>
-            <Button Content="C3" Tag="C3" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="5" Grid.Column="2"/>
-            <Button Content="D3" Tag="D3" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="5" Grid.Column="3"/>
-            <Button Content="E3" Tag="E3" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="5" Grid.Column="4"/>
-            <Button Content="F3" Tag="F3" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="5" Grid.Column="5"/>
-            <Button Content="G3" Tag="G3" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="5" Grid.Column="6"/>
-            <Button Content="H3" Tag="H3" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="5" Grid.Column="7"/>
-            <Button Content="A4" Tag="A4" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="4"/>
-            <Button Content="B4" Tag="B4" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="4" Grid.Column="1"/>
-            <Button Content="C4" Tag="C4" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="4" Grid.Column="2"/>
-            <Button Content="D4" Tag="D4" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="4" Grid.Column="3"/>
-            <Button Content="E4" Tag="E4" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="4" Grid.Column="4"/>
-            <Button Content="F4" Tag="F4" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="4" Grid.Column="5"/>
-            <Button Content="G4" Tag="G4" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="4" Grid.Column="6"/>
-            <Button Content="H4" Tag="H4" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="4" Grid.Column="7"/>
-            <Button Content="A5" Tag="A5" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="3"/>
-            <Button Content="B5" Tag="B5" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="3" Grid.Column="1"/>
-            <Button Content="C5" Tag="C5" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="3" Grid.Column="2"/>
-            <Button Content="D5" Tag="D5" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="3" Grid.Column="3"/>
-            <Button Content="E5" Tag="E5" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="3" Grid.Column="4"/>
-            <Button Content="F5" Tag="F5" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="3" Grid.Column="5"/>
-            <Button Content="G5" Tag="G5" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="3" Grid.Column="6"/>
-            <Button Content="H5" Tag="H5" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="3" Grid.Column="7"/>
-            <Button Content="A6" Tag="A6" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="2"/>
-            <Button Content="B6" Tag="B6" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="2" Grid.Column="1"/>
-            <Button Content="C6" Tag="C6" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="2" Grid.Column="2"/>
-            <Button Content="D6" Tag="D6" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="2" Grid.Column="3"/>
-            <Button Content="E6" Tag="E6" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="2" Grid.Column="4"/>
-            <Button Content="F6" Tag="F6" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="2" Grid.Column="5"/>
-            <Button Content="G6" Tag="G6" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="2" Grid.Column="6"/>
-            <Button Content="H6" Tag="H6" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="2" Grid.Column="7"/>
-            <Button Content="A7" Tag="A7" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="1"/>
-            <Button Content="B7" Tag="B7" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="1" Grid.Column="1"/>
-            <Button Content="C7" Tag="C7" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="1" Grid.Column="2"/>
-            <Button Content="D7" Tag="D7" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="1" Grid.Column="3"/>
-            <Button Content="E7" Tag="E7" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="1" Grid.Column="4"/>
-            <Button Content="F7" Tag="F7" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="1" Grid.Column="5"/>
-            <Button Content="G7" Tag="G7" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="1" Grid.Column="6"/>
-            <Button Content="H7" Tag="H7" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="1" Grid.Column="7"/>
-            <Button Content="A8" Tag="A8" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}"/>
-            <Button Content="B8" Tag="B8" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="1"/>
-            <Button Content="C8" Tag="C8" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="2"/>
-            <Button Content="D8" Tag="D8" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="3"/>
-            <Button Content="E8" Tag="E8" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="4"/>
-            <Button Content="F8" Tag="F8" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="5"/>
-            <Button Content="G8" Tag="G8" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="6"/>
-            <Button Content="H8" Tag="H8" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="7"/>
+			<Button Content="A1" Tag="A1" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="7" Click="Button_Click"/>
+            <Button Content="B1" Tag="B1" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="1" Grid.Row="7" Click="Button_Click"/>
+            <Button Content="C1" Tag="C1" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="2" Grid.Row="7" Click="Button_Click"/>
+            <Button Content="D1" Tag="D1" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="3" Grid.Row="7" Click="Button_Click"/>
+            <Button Content="E1" Tag="E1" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="4" Grid.Row="7" Click="Button_Click"/>
+            <Button Content="F1" Tag="F1" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="5" Grid.Row="7" Click="Button_Click"/>
+            <Button Content="G1" Tag="G1" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="6" Grid.Row="7" Click="Button_Click"/>
+            <Button Content="H1" Tag="H1" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="7" Grid.Row="7" Click="Button_Click"/>
+            <Button Content="A2" Tag="A2" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="6" Click="Button_Click"/>
+            <Button Content="B2" Tag="B2" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="1" Grid.Row="6" Click="Button_Click"/>
+            <Button Content="C2" Tag="C2" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="6" Grid.Column="2" Click="Button_Click"/>
+            <Button Content="D2" Tag="D2" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="6" Grid.Column="3" Click="Button_Click"/>
+            <Button Content="E2" Tag="E2" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="6" Grid.Column="4" Click="Button_Click"/>
+            <Button Content="F2" Tag="F2" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="6" Grid.Column="5" Click="Button_Click"/>
+            <Button Content="G2" Tag="G2" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="6" Grid.Column="6" Click="Button_Click"/>
+            <Button Content="H2" Tag="H2" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="6" Grid.Column="7" Click="Button_Click"/>
+            <Button Content="A3" Tag="A3" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="5" Click="Button_Click"/>
+            <Button Content="B3" Tag="B3" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="5" Grid.Column="1" Click="Button_Click"/>
+            <Button Content="C3" Tag="C3" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="5" Grid.Column="2" Click="Button_Click"/>
+            <Button Content="D3" Tag="D3" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="5" Grid.Column="3" Click="Button_Click"/>
+            <Button Content="E3" Tag="E3" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="5" Grid.Column="4" Click="Button_Click"/>
+            <Button Content="F3" Tag="F3" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="5" Grid.Column="5" Click="Button_Click"/>
+            <Button Content="G3" Tag="G3" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="5" Grid.Column="6" Click="Button_Click"/>
+            <Button Content="H3" Tag="H3" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="5" Grid.Column="7" Click="Button_Click"/>
+            <Button Content="A4" Tag="A4" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="4" Click="Button_Click"/>
+            <Button Content="B4" Tag="B4" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="4" Grid.Column="1" Click="Button_Click"/>
+            <Button Content="C4" Tag="C4" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="4" Grid.Column="2" Click="Button_Click"/>
+            <Button Content="D4" Tag="D4" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="4" Grid.Column="3" Click="Button_Click"/>
+            <Button Content="E4" Tag="E4" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="4" Grid.Column="4" Click="Button_Click"/>
+            <Button Content="F4" Tag="F4" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="4" Grid.Column="5" Click="Button_Click"/>
+            <Button Content="G4" Tag="G4" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="4" Grid.Column="6" Click="Button_Click"/>
+            <Button Content="H4" Tag="H4" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="4" Grid.Column="7" Click="Button_Click"/>
+            <Button Content="A5" Tag="A5" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="3" Click="Button_Click"/>
+            <Button Content="B5" Tag="B5" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="3" Grid.Column="1" Click="Button_Click"/>
+            <Button Content="C5" Tag="C5" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="3" Grid.Column="2" Click="Button_Click"/>
+            <Button Content="D5" Tag="D5" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="3" Grid.Column="3" Click="Button_Click"/>
+            <Button Content="E5" Tag="E5" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="3" Grid.Column="4" Click="Button_Click"/>
+            <Button Content="F5" Tag="F5" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="3" Grid.Column="5" Click="Button_Click"/>
+            <Button Content="G5" Tag="G5" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="3" Grid.Column="6" Click="Button_Click"/>
+            <Button Content="H5" Tag="H5" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="3" Grid.Column="7" Click="Button_Click"/>
+            <Button Content="A6" Tag="A6" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="2" Click="Button_Click"/>
+            <Button Content="B6" Tag="B6" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="2" Grid.Column="1" Click="Button_Click"/>
+            <Button Content="C6" Tag="C6" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="2" Grid.Column="2" Click="Button_Click"/>
+            <Button Content="D6" Tag="D6" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="2" Grid.Column="3" Click="Button_Click"/>
+            <Button Content="E6" Tag="E6" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="2" Grid.Column="4" Click="Button_Click"/>
+            <Button Content="F6" Tag="F6" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="2" Grid.Column="5" Click="Button_Click"/>
+            <Button Content="G6" Tag="G6" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="2" Grid.Column="6" Click="Button_Click"/>
+            <Button Content="H6" Tag="H6" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="2" Grid.Column="7" Click="Button_Click"/>
+            <Button Content="A7" Tag="A7" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="1" Click="Button_Click"/>
+            <Button Content="B7" Tag="B7" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="1" Grid.Column="1" Click="Button_Click"/>
+            <Button Content="C7" Tag="C7" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="1" Grid.Column="2" Click="Button_Click"/>
+            <Button Content="D7" Tag="D7" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="1" Grid.Column="3" Click="Button_Click"/>
+            <Button Content="E7" Tag="E7" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="1" Grid.Column="4" Click="Button_Click"/>
+            <Button Content="F7" Tag="F7" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="1" Grid.Column="5" Click="Button_Click"/>
+            <Button Content="G7" Tag="G7" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="1" Grid.Column="6" Click="Button_Click"/>
+            <Button Content="H7" Tag="H7" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Row="1" Grid.Column="7" Click="Button_Click"/>
+            <Button Content="A8" Tag="A8" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Click="Button_Click"/>
+            <Button Content="B8" Tag="B8" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="1" Click="Button_Click"/>
+            <Button Content="C8" Tag="C8" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="2" Click="Button_Click"/>
+            <Button Content="D8" Tag="D8" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="3" Click="Button_Click"/>
+            <Button Content="E8" Tag="E8" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="4" Click="Button_Click"/>
+            <Button Content="F8" Tag="F8" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="5" Click="Button_Click"/>
+            <Button Content="G8" Tag="G8" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="6" Click="Button_Click"/>
+            <Button Content="H8" Tag="H8" Foreground="{DynamicResource Foreground}" Background="{DynamicResource ButtonBackground}" Grid.Column="7" Click="Button_Click"/>
 		</Grid>
 	</Grid>
 </Window>

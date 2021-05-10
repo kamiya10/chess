@@ -25,9 +25,9 @@ namespace chess
 			InitializeComponent();
 		}
 
-		static void ButtonPress()
+		private void Button_Click(object sender, RoutedEventArgs e)
 		{
-
+			string tag = (string)((Button)sender).Tag;
 		}
 	}
 }
