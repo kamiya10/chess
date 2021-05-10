@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace 練習
+namespace chess
 {
 	/// <summary>
 	/// MainWindow.xaml 的互動邏輯
@@ -23,6 +23,11 @@ namespace 練習
 		public MainWindow()
 		{
 			InitializeComponent();
+		}
+
+		static void ButtonPress()
+		{
+
 		}
 	}
 }

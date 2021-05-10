@@ -1,7 +1,7 @@
-﻿<Application x:Class="練習.App"
+﻿<Application x:Class="chess.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:練習"
+             xmlns:local="clr-namespace:chess"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
         <ResourceDictionary>
